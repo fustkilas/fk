@@ -1,0 +1,12 @@
+name = "fk"
+license = "MIT"
+description = ""
+homepage = "http://fustkilas.surge.sh"
+tags = []
+features = []
+min_version = "0.1"
+
+[author]
+  name = "Fust Kilas"
+  homepage = "http://fustkilas.surge.sh"
+
